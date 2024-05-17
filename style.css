@@ -1,0 +1,18 @@
+.displayImagePlease {
+    width: 100px;
+    height: auto;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+/* My first successful flex - flex the parent not the child*/
